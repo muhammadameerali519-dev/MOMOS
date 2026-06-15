@@ -1,0 +1,6 @@
+{
+  "name": "Momos Bite",
+  "description": "Premium Pakistani street-food meets modern Asian restaurant. Experience delicious handcrafted momos, noodles, and signature drinks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
